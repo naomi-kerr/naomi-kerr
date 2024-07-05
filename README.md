@@ -9,16 +9,12 @@ I am seeking an entry-level security analyst job that allows me to leverage my p
 
 | Skill                                                | Associated Project |
 | ---------------------------------------------------- | ------------------ |
-| Incident Report Analysis                             |                    |
-| Linux Permission Management                          |                    |
-| SQL Queries & Filters                                |                    |
-| Vulnerability Assessment                             |                    |
-| Incident Documentation                               |                    |
-| Cloud SIEM Implementation with Wazuh                 |                    |
-| Firewall Configuration with iptables                 |                    |
-| IDS Implementation with Suricata                     |                    |
-| Packet Capture & Analysis with tcpdump and Wireshark |                    |
-| SSH Hardening                                        |                    |
+| | |
+| Linux CLI                 | <a href=https://github.com/naomi-kerr/Linux-Permissions-Management>Linux Permissions Management</a> |
+| SQL                       | <a href=https://github.com/naomi-kerr/SQL-Queries-and-Filters> SQL Queries & Filters</a> |
+| Vulnerability Assessment  | <a href=https://github.com/naomi-kerr/Vulnerability-Assessment-Report>Vulnerability Asessment Report </a> |
+| Incident Documentation    | <a href=https://github.com/naomi-kerr/Incident-Report-Analysis>Incident Report Analysis</a> |
+| SSH Hardening             | <a href=https://github.com/naomi-kerr/SSH-Hardening>SSH Hardening</a> |
 ## Tools
 ### Network
 <div>
@@ -41,3 +37,9 @@ I am seeking an entry-level security analyst job that allows me to leverage my p
 </div>
 
 ## Projects
+
+### Linux Permissions Management
+### SQL Queries and Filters
+### Vulnerability Assessment Report
+### Incident Report Analysis
+### SSH Hardening
