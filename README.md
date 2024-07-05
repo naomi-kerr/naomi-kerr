@@ -1,5 +1,5 @@
 # Hello, I'm Naomi
-<a href="https://linkedin.com/in/naomi-kerr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> ![Static Badge](https://img.shields.io/badge/Professional%20Statement-F74E4E?style=for-the-badge)
+<a href="https://github.com/naomi-kerr/Professional-Statement"> <img src="https://img.shields.io/badge/Professional%20Statement-F74E4E?style=for-the-badge" /></a> <a href="https://linkedin.com/in/naomi-kerr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 
 I am a security analyst that recently switched careers after working in marketing and working to find a new . Since starting my cybersecurity journey I have developed a passion for blue team and network engineering. 
