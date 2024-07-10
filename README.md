@@ -13,6 +13,7 @@ I am seeking an entry-level security analyst job that allows me to leverage my p
 | | |
 | Linux CLI                 | <a href=https://github.com/naomi-kerr/Linux-Permissions-Management>Linux Permissions Management</a> |
 | SQL                       | <a href=https://github.com/naomi-kerr/SQL-Queries-and-Filters> SQL Queries & Filters</a> |
+| Packet Capture and Analysis | <a href=https://github.com/naomi-kerr/Packet-Capture-and-Analysis> Packet Capture and Analysis with tcpdump and Wireshark </a> | 
 | Vulnerability Assessment  | <a href=https://github.com/naomi-kerr/Vulnerability-Assessment-Report>Vulnerability Asessment Report </a> |
 | Incident Documentation    | <a href=https://github.com/naomi-kerr/Incident-Report-Analysis>Incident Report Analysis</a> |
 | SSH Hardening             | <a href=https://github.com/naomi-kerr/SSH-Hardening>SSH Hardening</a> |
