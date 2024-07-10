@@ -11,7 +11,7 @@ I am seeking an entry-level security analyst job that allows me to leverage my p
 | Skill                                                | Associated Project |
 | ---------------------------------------------------- | ------------------ |
 | | |
-| Linux CLI                 | <a href=https://github.com/naomi-kerr/Linux-Permissions-Management>Linux Permissions Management</a> |
+| Linux CLI                 | <a href=https://github.com/naomi-kerr/File-Permissions-in-Linux>Linux Permissions Management</a> |
 | SQL                       | <a href=https://github.com/naomi-kerr/SQL-Queries-and-Filters> SQL Queries & Filters</a> |
 | Packet Capture and Analysis | <a href=https://github.com/naomi-kerr/Packet-Capture-and-Analysis> Packet Capture and Analysis with tcpdump and Wireshark </a> | 
 | Vulnerability Assessment  | <a href=https://github.com/naomi-kerr/Vulnerability-Assessment-Report>Vulnerability Asessment Report </a> |
