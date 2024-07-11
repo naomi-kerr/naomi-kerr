@@ -17,6 +17,7 @@ I am seeking an entry-level security analyst job that allows me to leverage my p
 | Vulnerability Assessment  | <a href=https://github.com/naomi-kerr/Vulnerability-Assessment-Report>Vulnerability Asessment Report </a> |
 | Incident Documentation    | <a href=https://github.com/naomi-kerr/Incident-Report-Analysis>Incident Report Analysis</a> |
 | SSH Hardening             | <a href=https://github.com/naomi-kerr/SSH-Hardening>SSH Hardening</a> |
+| Creating a Firewall| <a href=https://github.com/naomi-kerr/Firewall-Configuration-with-iptables> Firewall Configuration with iptables</a>| 
 ## Tools
 ### Network
 <div>
